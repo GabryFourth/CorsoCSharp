@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C Sharp Tutorial.md",
-            "mode": "source",
+            "file": "_next.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp Tutorial.md",
+                "file": "_next.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,13 @@
   },
   "active": "5765e56061ff7a5f",
   "lastOpenFiles": [
-    "C Sharp Tutorial.md",
-    "Math Problems.md",
     "_next.md",
+    "Math Problems.md",
+    "OOP and Programming Basics.md",
+    "C Sharp Tutorial.md",
     "_index.md",
     "Windows Form.md",
     "Sorting, Complexity.md",
-    "OOP and Programming Basics.md",
     "Images/java-oops.png",
     "Images/argument request.jpeg",
     "Images/w3 menu.png"
