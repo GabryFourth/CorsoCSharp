@@ -1,0 +1,10 @@
+Currency Converter
+Number Guessing Game
+ATM Interface (simple banking app)
+Build Your Own Tic-Tac-Toe Game
+Code a Rock, Paper, Scissors Game
+Develop a Weight Conversion Tool
+Build Your Own Calculator
+True or False? game quiz
+The infinity Game (with points)
+Rythm Game with Timer as Points

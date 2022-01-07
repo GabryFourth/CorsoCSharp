@@ -24,6 +24,32 @@ namespace LogicalPrograms
         }
     }
 }
+
+
+/// MODO SEMPLICE
+int res = 1;
+int cane = 1;
+int gatto = 0;
+
+int Fibonacci(int nIterazioni)
+{
+    gatto = cane;// verde freccia
+    cane = res; //freccia blu
+    res = cane + gatto; // freccia viola
+
+    if(nIterazioni == 0)
+    {
+        return res;
+    } else
+    {
+        return Fibonacci(nIterazioni - 1);
+    }
+}
+
+// vogliamo passsare il numero di iterazioni che deve fare
+int risultato = Fibonacci(3);
+Console.WriteLine(risultato);
+
 ```
 
 ---

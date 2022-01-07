@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_next.md",
+            "file": "Math Problems.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_next.md",
+                "file": "Math Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,13 @@
   },
   "active": "5765e56061ff7a5f",
   "lastOpenFiles": [
-    "_next.md",
     "Math Problems.md",
-    "OOP and Programming Basics.md",
     "C Sharp Tutorial.md",
-    "_index.md",
+    "OOP and Programming Basics.md",
     "Windows Form.md",
     "Sorting, Complexity.md",
+    "_next.md",
+    "_index.md",
     "Images/java-oops.png",
     "Images/argument request.jpeg",
     "Images/w3 menu.png"
